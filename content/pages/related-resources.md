@@ -2,25 +2,27 @@
 content_type: page
 description: This section provides a list of related resources on queer, gender, and
   critical race theories.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 1a6a7ab3-c028-5202-32a3-ef396e13931b
 ---
 
-Synopsis of Nella Larsen's {{% resource_link "d4e354d7-d7ad-45ee-9bb0-659e304a4af7" "_Passing_" %}}
+Synopsis of Nella Larsen's [_Passing_](http://en.wikipedia.org/wiki/Nella_Larsen)
 
-Wikpedia entry about {{% resource_link "018249be-5f2d-4931-a743-2c9fb0d0fe7d" "JT Leroy" %}}
+Wikpedia entry about [JT Leroy](http://en.wikipedia.org/wiki/JT_LeRoy)
 
-Michael Stevenson's blog post about {{% resource_link "448eb1d1-e5c8-4fcd-a8da-230da4664485" "Zanele Muholi" %}}
+Michael Stevenson's blog post about [Zanele Muholi](http://archive.stevenson.info/exhibitions/muholi/index2010.htm)
 
-{{% resource_link "bf95f96d-54b1-442f-be42-5fdbeb67119c" "Zanele Muholi's" %}} blog
+[Zanele Muholi's](http://muzane.wordpress.com/) blog
 
-Wikipedia entry about {{% resource_link "76ba5596-f696-4d4c-b28b-ef0770c289c2" "Ernest Cole" %}}
+Wikipedia entry about [Ernest Cole](http://en.wikipedia.org/wiki/Ernest_Cole)
 
-Wikipedia entry about the {{% resource_link "b2975007-d699-465d-94b0-9202e347a334" "Melungeon" %}}
+Wikipedia entry about the [Melungeon](http://en.wikipedia.org/wiki/Melungeon)
 
-Bilefsky, Dan. "{{% resource_link "b644d954-d29b-45e7-bc78-943f26696284" "Albanian Custom Fades: Woman as Family Man" %}}." _The New York Times_, June 25, 2008.
+Bilefsky, Dan. "[Albanian Custom Fades: Woman as Family Man](http://www.nytimes.com/2008/06/25/world/europe/25virgins.html?_r=1)." _The New York Times_, June 25, 2008.
 
 MacDonald, Ann-Marie. _Fall on Your Knees_. New York, NY: Simon & Schuster, 2002. ISBN: 9780743237185.
 

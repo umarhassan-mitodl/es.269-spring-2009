@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides an introduction to the course and information
   on the The Experimental Study Group (ESG), course meeting times, prerequisites,
   assignments, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -17,7 +19,7 @@ Lectures: 1 session / week, 2 hours / session
 About the Program
 -----------------
 
-{{% resource_link "31a7fb5c-e337-40ca-8910-a8122e7634df" "The Experimental Study Group" %}} (ESG) is an alternative academic program that offers experimental, small group learning in the core freshmen subjects within a community-based setting. This course, as part of the ESG Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor.
+[The Experimental Study Group](http://esg.mit.edu/) (ESG) is an alternative academic program that offers experimental, small group learning in the core freshmen subjects within a community-based setting. This course, as part of the ESG Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor.
 
 Prerequisites
 -------------
