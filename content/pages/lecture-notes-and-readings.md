@@ -21,7 +21,7 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Racial passing ({{% resource_link "70042c50-5d6a-ec20-47b6-ee2a921b57ba" "PDF" %}}) (Courtesy of Rachel Dillon.)
 {{< tdclose >}}{{< tdopen >}}
-Craft, William, and Ellen Craft. *Running a Thousand Miles for Freedom*. Atlanta, GA: University of Georgia Press, 1999. ISBN: 9780820321042. \[[Read](http://docsouth.unc.edu/neh/craft/craft.html) the book online\]
+Craft, William, and Ellen Craft. *Running a Thousand Miles for Freedom*. Atlanta, GA: University of Georgia Press, 1999. ISBN: 9780820321042. \[{{% resource_link "a5bab047-9a0a-437c-bdac-14f392489a7a" "Read" %}} the book online\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -38,7 +38,7 @@ Continue with *Running a Thousand Miles for Freedom.*
 
 Taylor, Edward. "A Primer on Critical Race Theory." *The Journal of Blacks in Higher Education* 19 (1998): 122-124.
 
-McCaskill, Barbara. "[Yours Very Truly: Ellen Craft-The Fugitive as Text and Artifact](http://findarticles.com/p/articles/mi_m2838/is_n4_v28/ai_16836581/)." *African American Review* (Winter 1994).
+McCaskill, Barbara. "{{% resource_link "dce3f001-a1e2-4da2-8961-19033bc7ee9d" "Yours Very Truly: Ellen Craft-The Fugitive as Text and Artifact" %}}." *African American Review* (Winter 1994).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -46,7 +46,7 @@ McCaskill, Barbara. "[Yours Very Truly: Ellen Craft-The Fugitive as Text and Art
 
 Discussion about *Incognegro* ({{% resource_link "11c54abc-4465-1166-95f5-f10d773f2ebd" "PDF" %}})
 
-Special Guest: [Zanele Muholi](http://en.wikipedia.org/wiki/Zanele_Muholi)
+Special Guest: {{% resource_link "180d7448-7fc1-44f6-b35e-ea68afa72946" "Zanele Muholi" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Johnson, Mat, and Warren Pierce. *Incognegro*. New York, NY: Vertigo, 2008. ISBN: 9781401210977.
@@ -58,9 +58,9 @@ Gender theory ({{% resource_link "38952adb-b614-4799-1cb5-063488153f8e" "PDF" %}
 
 Foucault, Michel. *The History of Sexuality, Volume 1: An Introduction*. New York, NY: Vintage Press, 1990. ISBN: 9780679724698.
 
-Hackney, James R., Jr. "[Review: Derrick Bell's Re-Sounding: W.E.B. DuBois, Modernism, and Critical Race Scholarship](http://www.jstor.org/pss/828765)." *Law and Social Inquiry* 23, no. 1 (1998): 141-164.
+Hackney, James R., Jr. "{{% resource_link "53fbbf3e-a599-44d3-b776-3a7c288f52b3" "Review: Derrick Bell's Re-Sounding: W.E.B. DuBois, Modernism, and Critical Race Scholarship" %}}." *Law and Social Inquiry* 23, no. 1 (1998): 141-164.
 
-Butler, Judith. "Peformative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory." (1988). ([PDF](https://www.semanticscholar.org/paper/PERFORMATIVE-ACTS-AND-GENDER-CONSTITUTION%3A-AN-ESSAY-Butler/d1e62d0320a1dba2c3dba52441b83211fff7353e))
+Butler, Judith. "Peformative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory." (1988). ({{% resource_link "7119f755-6ae5-42e7-b7f7-e8583203aec1" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -73,7 +73,7 @@ Raymond, Janice. *The Transsexual Empire: The Making of the She-Male*. New York,
 {{< tdclose >}}{{< tdopen >}}
 Nella Larsen's *Passing* ({{% resource_link "aad9d98d-e6b2-da83-403d-0d5ccbde4e46" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Larsen, Nella. *Passing*. New York, NY: W.W. Norton & Co., 2007. ISBN: 9780393979169. \[[Preview](http://books.google.com/books?id=eGtk2HVLYoMC&pg=PAfrontcover) in Google Books\]
+Larsen, Nella. *Passing*. New York, NY: W.W. Norton & Co., 2007. ISBN: 9780393979169. \[{{% resource_link "f017b1e4-84f4-458d-8521-8a36d072fe7b" "Preview" %}} in Google Books\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -107,7 +107,7 @@ Sycamore, Matt Bernstein. *Nobody Passes: Rejecting the Rules of Gender and Conf
 {{< tdclose >}}{{< tdopen >}}
 *Nobody Passes* (cont.) ({{% resource_link "de7a85d3-c6ae-eb3b-f8af-33ab6e8f4a8a" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Comeau, Joey. [*Lockpick Pornography*](http://cargocollective.com/joeycomeau/Lockpick-Pornography). Vancouver, BC: Loose Teeth Press, 2008.
+Comeau, Joey. {{% resource_link "7f7aaecf-28b0-47b1-a303-7572f903355d" "*Lockpick Pornography*" %}}. Vancouver, BC: Loose Teeth Press, 2008.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
