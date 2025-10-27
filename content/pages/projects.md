@@ -3,8 +3,6 @@ content_type: page
 description: During the last class of the semester, the students presented their final
   projects. This section provides notes taken by an OpenCourseWare staff member observing
   the class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Student 1
 
 Project Topic: Melungeons
 
-Wikipedia article about the [Melungeons](http://en.wikipedia.org/wiki/Melungeon).
+Wikipedia article about the {{% resource_link "f9dcfa0f-e94a-4574-bba0-cc18bce94ef2" "Melungeons" %}}.
 
 Melungeons are a group of mixed race people who live in Southern Appalachia. They are a racial melting pot. Kevin Jones did a DNA study of descendents of Melungeon families. He found that their ancestry contained a mix of white, black, Native American, South Asian, gypsy, Sephardic Jewish, Arabic, Moorish, and Turkish races.
 
@@ -31,37 +29,37 @@ The term Melungeon was originally imposed upon them by outsiders. In the mid-20t
 
 The Civil War was a difficult time for them because race was scrutinized so closely. They pretty much ran the Underground Railroad in Appalachia on both sides of the Mason-Dixon line.
 
-"[Walking Towards the Sunset](https://digital.lib.ecu.edu/50401#?c=0&m=0&s=0&cv=0)" was a play that had a Melungeon character and helped create a resurgence of interest in Melungeon heritage.
+"{{% resource_link "e97f3ed7-5507-41ba-8716-49426a0eb535" "Walking Towards the Sunset" %}}" was a play that had a Melungeon character and helped create a resurgence of interest in Melungeon heritage.
 
 Student 2
 ---------
 
 Project Title: _Monstrous Regiment_
 
-Pratchett, Terry. _Monstrous Regiment_. New York, NY: HarperTorch, 2004. ISBN: 9780060013165.  \[[Preview](http://books.google.com/books?id=6e9nD0oQA3UC&printsec=frontcover&dq=monstrous+regiment#v=onepage&q=&f=false) in Google Books.\]
+Pratchett, Terry. _Monstrous Regiment_. New York, NY: HarperTorch, 2004. ISBN: 9780060013165.  \[{{% resource_link "59451c1d-86f2-409d-b3ad-84a8ffbb9bc1" "Preview" %}} in Google Books.\]
 
 This is the 31st novel in Terry Pratchett's Discworld series. It is set in a fictional land, Borogravia, that is at war. The protagonist is Polly Perk, whose brother has gone missing while serving in the military.  Polly is the person most qualified to take over the the family business in his absence, but according to the law, women aren't allowed to own property.  Consequently, if her brother does not return, their business will be lost.  Polly disguieses herself as a man so she can join the military to look for her brother.
 
 Amongst her many adventures while in the military, she learns that there are many other women who are passing as men, each with her own motivation for doing so.
 
-[Wikipedia](http://en.wikipedia.org/wiki/Monstrous_Regiment_(novel)) entry about the novel.
+{{% resource_link "bd4d6400-de67-4f1d-949f-69460eb2b0ca" "Wikipedia" %}} entry about the novel.
 
 Student 3
 ---------
 
 Project Topic: _Fall on Your Knees_
 
-MacDonald, Ann-Marie. _Fall on Your Knees_. New York, NY: Simon & Schuster, 2002. ISBN: 9780743237185.  \[[Preview](http://books.google.com/books?id=JSpbbA1zyz4C&pg=PA5&lpg=PA5&dq=fall+on+your+knees+touchstone&source=bl&ots=FvMnfLtw4q&sig=fE67NN8Waz5VGmPSvQ2fYlWbjaM&hl=en&ei=RQigSpO7Dtyw8QaJq9DrDw&sa=X&oi=book_result&ct=result&resnum=2#v=onepage&q=fall%20on%20your%20kne&f=false) in Google Books.\]
+MacDonald, Ann-Marie. _Fall on Your Knees_. New York, NY: Simon & Schuster, 2002. ISBN: 9780743237185.  \[{{% resource_link "87667f7b-051d-408c-b8e9-0adf3e780c2f" "Preview" %}} in Google Books.\]
 
 The book is told in non-chronological order. The oldest daughter, Kathleen, is a singer who goes to New York City for voice lessons in 1918. While in New York, she meets Rose, an African American accompanist. They quickly fall in love. Rose dresses in feminine clothing when she's working, but cross-dresses and passes as a man. While in drag she works as a pianist. The book brings up issues of gender and race.
 
-It calls to mind the story of [Billy Tipton](http://en.wikipedia.org/wiki/Billy_Tipton), an actual jazz musician who passed as male. He had a wife and three adopted sons. They only people who knew the truth about his gender were his cousins. When the sons found out their reaction was "Well, he was Dad to us" and did not make a big deal out of it.
+It calls to mind the story of {{% resource_link "755b5e01-decc-4457-8c66-1783095bde28" "Billy Tipton" %}}, an actual jazz musician who passed as male. He had a wife and three adopted sons. They only people who knew the truth about his gender were his cousins. When the sons found out their reaction was "Well, he was Dad to us" and did not make a big deal out of it.
 
 Student 4
 ---------
 
 Project Topic: Kanun of Albania
 
-_New York Times_ article about the [Kanun](http://www.nytimes.com/2008/06/25/world/europe/25virgins.html?_r=2).
+_New York Times_ article about the {{% resource_link "6fee7f46-41aa-4f52-914e-f358b76c8b49" "Kanun" %}}.
 
 In the past, Albanian culture was very patrilineal and remained restricted and difficult for women. There were many issues involving inheritance and blood fueds; often times women were the only heirs available. Women were considered to be worth less than a mule. The community resolved these issues by allowing women to "become men" and thus inherit property and to lead revenge killings. These women were known as Kanun or sworn virgins. The women would alter their hair and clothing to reflect male culture. They had to remain unmarried and celibate. They were men in intent. These women could receive power and status by becoming men. They could be heads of their families and communities. It is estimated that about 40 Kanun still are alive.

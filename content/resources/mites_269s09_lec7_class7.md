@@ -5,8 +5,6 @@ description: 'This resource contains information related to Passing: Flexibility
 file: /courses/es-269-passing-flexibility-in-race-and-gender-spring-2009/aad9d98de6b2da83403d0d5ccbde4e46_MITES_269S09_lec7_Class7.pdf
 file_size: 514139
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
